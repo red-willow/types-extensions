@@ -4,7 +4,7 @@ A collection of extension methods to a number of types to reduce the amount of c
 
 ## Install
 
-Best way to install is via [Nuget](https://nuget.org):
+Best way to install is via [NuGet](https://www.nuget.org/packages/RedWillow.TypesExtensions):
 
 ```
 PM> Install-Package RedWillow.TypesExtension
