@@ -17,7 +17,7 @@ There are currently utility extensions for date and time calculations and for st
 ### Date and Time Calculations
 
 ```C#
-using RedWillow.TypesExtensions;
+using RedWillow.Extensions;
 
 /**
  * Get expiry date. If it falls on the weekend make it
