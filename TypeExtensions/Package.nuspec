@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RedWillow.TypesExtensions</id>
+    <version>1.0.0</version>
+    <title>Types Extensions</title>
+    <authors>Jason Kelly</authors>
+    <owners>Red Willow</owners>
+    <description>
+      Extensions for common actions on types that aim to reduce code volume and make code easier to read and maintain.
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <summary>
+      Extensions for common actions on types that aim to reduce code volume and make code easier to read and maintain.
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://github.com/red-willow/types-extensions</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://redwillow.nz/licenses/TypeExtensions/MIT</licenseUrl>
+    <copyright>Copyright (c) 2016 Red Willow</copyright>
+    <dependencies></dependencies>
+    <references></references>
+    <tags>types extensions fluent datetime string</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release35\RedWillow.Extensions.dll" target="lib\net35\" />
+    <file src="bin\Release35\RedWillow.Extensions.pdb" target="lib\net35\" />
+    <file src="bin\Release40\RedWillow.Extensions.dll" target="lib\net40\" />
+    <file src="bin\Release40\RedWillow.Extensions.pdb" target="lib\net40\" />
+    <file src="bin\Release45\RedWillow.Extensions.dll" target="lib\net45\" />
+    <file src="bin\Release45\RedWillow.Extensions.pdb" target="lib\net45\" />
+  </files>
+</package>
